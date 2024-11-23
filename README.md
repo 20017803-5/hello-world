@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+Olá, sou Guilherme Makoto, sou desenvolvedor de software e estudante de Engenharia de Software pela Unicesumar.
